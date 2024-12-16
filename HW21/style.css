@@ -1,0 +1,38 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 50px;
+    padding: 100px;
+    background-color: beige;
+    color:black;
+}
+
+header{
+    background-color: azure;
+    color: black;
+    padding: 100px;
+    text-align: center;
+}
+
+header nav ol li {
+    display: inline;
+    color:darkslategray;
+}
+
+header nav ul li {
+    display: inline;
+    color:darkslategray;
+}
+
+header nav ul li a {
+    color:darkslategray;
+    text-decoration:double;
+}
+
+main {
+    padding: 30px;
+}
+
+.gallary img {
+    width: 64px(auto);
+    height: auto(64px);
+}
