@@ -1,30 +1,30 @@
 body{
     font-family: 'Times New Roman', Times, serif;
-    margin: 50px;
-    padding: 100px;
-    background-color: beige;
+    margin: 10px;
+    padding: 10px;
+    background-color:beige;
     color:black;
 }
 
 header{
     background-color: azure;
     color: black;
-    padding: 100px;
+    padding: 10px;
     text-align: center;
 }
 
 header nav ol li {
     display: inline;
-    color:darkslategray;
+    color:rgb(5, 5, 5);
 }
 
 header nav ul li {
     display: inline;
-    color:darkslategray;
+    color:rgb(5, 5, 5);
 }
 
 header nav ul li a {
-    color:darkslategray;
+    color:rgb(5, 5, 5);
     text-decoration:double;
 }
 
@@ -32,7 +32,8 @@ main {
     padding: 30px;
 }
 
-.gallary img {
-    width: 64px(auto);
-    height: auto(64px);
+.profile-photo {
+    width: 300px;
+    height: 350px;
+    border-radius: 50;  
 }
