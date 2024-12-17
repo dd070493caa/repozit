@@ -37,3 +37,9 @@ main {
     height: 350px;
     border-radius: 50;  
 }
+
+.gallery img {
+    width: 300px;
+    height: 350px;
+    border-radius: 50;  
+}
